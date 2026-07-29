@@ -104,8 +104,6 @@ A GNOME Shell extension showing real-time RAM usage right on the Dash icons, usi
 <img src="https://streak-stats.demolab.com/?user=mohamedahmed-dev&theme=gruvbox&hide_border=true" alt="streak stats" />
 </div>
 
- 🐍 Bonus: once the snake.yml workflow (sent alongside this file) is running on this repo,
-     uncomment the block below to show the animated contribution snake.
 <div align="center">
 <img src="https://raw.githubusercontent.com/mohamedahmed-dev/mohamedahmed-dev/output/github-snake-dark.svg" alt="snake animation" />
 </div>

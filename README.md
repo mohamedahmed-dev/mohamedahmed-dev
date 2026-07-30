@@ -101,7 +101,7 @@ A GNOME Shell extension showing real-time RAM usage right on the Dash icons, usi
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=mohamedahmed-dev&theme=gruvbox&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohamedahmed-dev&theme=gruvbox&hide_border=true" alt="streak stats" /> 
 </div>
 
 <div align="center">
